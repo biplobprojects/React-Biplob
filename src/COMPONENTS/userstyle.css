@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    width: 100vw;
+    height: 80vh;
+    border: 2px solid red;
+}
+
+
+.buttonname{
+margin-left: 10px;
+}
